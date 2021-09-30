@@ -7,11 +7,14 @@ This program is an auto-clicker written in Python
 * It accepts user input once for number of clicks
 * F1 to start clicking
 * F2 to terminate program
+* **When the clicks are enabled with F1, do not move mouse from the desired location**
+* If you want to use the clicker after pressing F2, the Python file must be executed again
 
 ## Changes to implement
 * Menu for the entire program
+* Pause while clicks are happening
 * Enable changing the number of clicks
-* Enable changing keybinds
+* Allow keybind remap
 
 ## How to use if you've never used/run Python:
 1. Go to your Start Menu
