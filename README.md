@@ -1,1 +1,1 @@
-# auto-clicker
+# Simple Python Auto-Clicker
