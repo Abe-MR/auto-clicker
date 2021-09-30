@@ -9,7 +9,6 @@ This program is an auto-clicker written in Python
 * F2 to terminate program
 
 ## Changes to implement
-* Simplify execution without needing 
 * Menu for the entire program
 * Enable changing the number of clicks
 * Enable changing keybinds
