@@ -25,8 +25,7 @@ tkinter.messagebox.showinfo(boxTitle, "Please do not remove cursor from desired 
 while True:
     try:
         userInput = int(askstring(boxTitle, "Enter number of desired clicks"))
-        if userInput < 1:
-            raise ValueError
+        raise ValueError if userInput < 1
         break
     #Error when user doesn't input an integer or an integer greater than 0
     except ValueError:
